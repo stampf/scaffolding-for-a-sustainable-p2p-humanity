@@ -48,14 +48,6 @@ The Labso has been created by Alexis Nicolas and Nicolas Stampf. It’s a streng
 ## Other initiatives Please add them there
 
 
-## Words of Caution 
 
-This initiative might be seen as trying to enforce some kind of power of the majority over minorities. It is not. The full range of variety of people and their corresponding perspective on the world is respected and even glorified.
-
-This initiative is indeed a method proposal (based on sound systemic laws and proven solutions) to help people connect more one to another if they wish to do so.
-
-How circles tackle local issues is left to their own decision, so they work out what works best for them, given the specificities of the people impacted and the context in which they live.
-
-Should issues be unable to resolve at a specific level, they should be brought one level up for remediation. It is expected the initial syntegration will propose some governance model to resolve such issues, although for a starter, whatever model work for some local circles is deemed good.
 
 
