@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Why?](chapter1.md)
-* How?
+* [How?](how.md)
 
