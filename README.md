@@ -5,6 +5,8 @@ Preliminary note: *this document is a work in progress, far from finished. I’m
 
 You can contact me through Twitter ([@nicolastampf](http://twitter.com/nicolasstampf)) or through http://about.me/nicolas.stampf.
 
+ **This book is a draft in progress using Gitbook. Fork and edit, then propose (pull request) your changes for integration.**
+
 ## Words of Caution 
 
 This initiative might be seen as trying to enforce some kind of power of the majority over minorities. It is not. The full range of variety of people and their corresponding perspective on the world is respected and even glorified.
