@@ -14,7 +14,7 @@ With its history or studies and research in the P2P paradigm, the P2P Foundation
 
 
 ### UN Global Goals mosaic
-UN Global Goals Nothing much to say, check here: http://www.globalgoals.org/
+Nothing much to say, check here: http://www.globalgoals.org/
 
 
 ### Labso (Laboratory of Social Technologies) 
