@@ -27,25 +27,6 @@ All bottom circles connect to an upper circle to coordinate actions with other s
 How these circles exchange information might be in physical presence or through Internet use (collaborative platforms, video conferencing tools, decision making web sites, etc.) and is left to the circles to determine themselves.
 
 
-## Leveraging existing initiatives 
-
-### Commons 
-When it comes to building a global scale P2P movement where peers are supported in direct interactions, knowledge exchange is paramount. The first movement toward which we think a connection is necessary is obviously that of The Commons.
-
-
-##P2P Foundation 
-With its history or studies and research in the P2P paradigm, the P2P Foundation cannot be excluded from such an initiative of course. We even anticipate a wide participation of its members in building the scaffoldings for the next roadmap to the P2P future.
-
-
-## UN Global Goals mosaic
-UN Global Goals Nothing much to say, check here: http://www.globalgoals.org/
-
-
-## Labso (Laboratory of Social Technologies) 
-The Labso has been created by Alexis Nicolas and Nicolas Stampf. It’s a strength-based facilitation technique to leverage the social networks of people to identify, amplify and refract their strengths onto the world. By adhering to the Open-Source movement, it strives to make facilitation techniques available to everyone. It embeds most of the ideas presented here: Complexity thinking, Strength-based Change and P2P networking and the Commons.
-
-
-## Other initiatives Please add them there
 
 
 
