@@ -5,7 +5,7 @@ Preliminary note: *this document is a work in progress, far from finished. I’m
 
 You can contact me through Twitter ([@nicolastampf](http://twitter.com/nicolasstampf)) or through http://about.me/nicolas.stampf.
 
- **This book is a draft in progress using Gitbook. Fork and edit, then propose (pull request) your changes for integration.**
+ **This book is a draft in progress using [Gitbook](http://www.gitbook.com/). Fork and edit, then propose (pull request) your changes for integration.**
 
 ## Words of Caution 
 
