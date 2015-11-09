@@ -6,4 +6,5 @@
 * [What is needed now?](Needs.md)
 * [Contributors](Contributors.md)
 * [Manifesto](manifesto.md)
+* References
 
