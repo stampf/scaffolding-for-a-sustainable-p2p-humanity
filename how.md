@@ -62,7 +62,6 @@ The list of topics to be included is limited in the traditional way of conductin
 This list would ideally be of 12 topics. Should we end with a different number (as ideally required by Team Syntegrity), another scheme could be devised.
 
 Current list, in alphabetical order:
-
 1. Agriculture (food), 
 2. Arts, 
 3. Commons, 
