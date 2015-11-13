@@ -25,10 +25,3 @@ Our guiding vision is one where circles of people self-organize locally to tackl
 All bottom circles connect to an upper circle to coordinate actions with other similar circles in the broader geographic area and/or topic. and so forth up to a global level, somehow like the United Nations, only it would be more like “United Peers”.
 
 How these circles exchange information might be in physical presence or through Internet use (collaborative platforms, video conferencing tools, decision making web sites, etc.) and is left to the circles to determine themselves.
-
-
-
-
-
-
-
