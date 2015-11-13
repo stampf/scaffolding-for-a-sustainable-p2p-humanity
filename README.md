@@ -18,3 +18,5 @@ Therefore, the current stage of this initiative being that of a proposal, we're 
 Consequently, this very document aimed to be a work in progress AND collaboratively constructed. Ideas proposed herein are just this: proposals, and what's legible at one time may not be n the future anymore, for a consensus toward something else might have emerged.
 
 **Let's move from a world of United Nations to a world of United People.**
+
+The short URL for this collaborative work is http://bit.ly/UP-draft.
