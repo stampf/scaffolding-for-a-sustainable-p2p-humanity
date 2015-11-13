@@ -18,12 +18,10 @@ That organization will need to:
 * analyze the current systemic conditions of society and its transformation into a more P2P-practising society (that it become a P2P-only society or that P2P coexists with capitalism will have to be decided by the syntegration although Michel Bauwens envisions a coexistence of the two, including a persistence of existing governments in a similar  form)
 * how to grow such a P2P society from the world as it is at the time of starting the syntegration, to the state defined at the previous point (100% P2P society or only partially P2P society)
 * how to make that P2P society as encompassing as possible by respecting a few conditions:
-
-
-1. be **free** to anybody on planet Earth without consideration of any sort of criteria;
-2. be **fair** in recognizing the equivalence of all humans;
-2. be **sustainable** (ie, not assume an infinite world);
-3. be **abundance-based** (ie assume everybody has something worth to contribute to the world, whatever his/her possibilities).
+  1. be **free** to anybody on planet Earth without consideration of any sort of criteria;
+  2. be **fair** in recognizing the equivalence of all humans;
+  2. be **sustainable** (ie, not assume an infinite world);
+  3. be **abundance-based** (ie assume everybody has something worth to contribute to the world, whatever his/her possibilities).
 
 
 
