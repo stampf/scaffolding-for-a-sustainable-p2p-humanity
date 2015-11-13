@@ -45,6 +45,10 @@ The basic premise to run such a big (global) and wide (all humanity's centers of
 
 ## Contributions of the Viable System Model (VSM)
 
+The VSM is a model which can serve two purposes:
+* design an organization so as to ask the good questions which answers will help make it viable on the long term
+* audit an existing organizaion so as to ensure its viability is assured.
+
 ##Contributions of Team Syntegrity (TS)
 TS would help in organizing the exchanges in the different fields of expertise represented in the organization in the most efficient possible way. It allows for:
 * exchange between all topics;
