@@ -20,9 +20,10 @@ That organization will need to:
 * how to make that P2P society as encompassing as possible by respecting a few conditions:
 
 
-1. be accessible to anybody on planet Earth without consideration of any sort of criteria
-2. be sustainable (ie, not assume an infinite world)
-3. be abundance-based (ie assume everybody has something worth to contribute to the world, whatever his/her possibilities)
+1. be **free** to anybody on planet Earth without consideration of any sort of criteria;
+2. be **fair** in recognizing the equivalence of all humans;
+2. be **sustainable** (ie, not assume an infinite world);
+3. be **abundance-based** (ie assume everybody has something worth to contribute to the world, whatever his/her possibilities).
 
 
 Also, the following needs will have to be addressed:
