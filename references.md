@@ -26,7 +26,7 @@ The Labso has been created by Alexis Nicolas and Nicolas Stampf. It’s a streng
 
 ## Links
 
-* **LinkedIn Systems Thniking Network discussion**: https://www.linkedin.com/grp/post/2639211-6070951438559825924?trk=groups-post-b-title 
+* **LinkedIn Systems Thinking Network discussion**: https://www.linkedin.com/grp/post/2639211-6070951438559825924?trk=groups-post-b-title 
 
 - COP21, http://www.cop21paris.org/
 - P2P Foundation, http://www.p2pfoundation.net/
