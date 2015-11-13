@@ -8,7 +8,7 @@ This is all the most disappointing as these successful initiatives wouldn’t be
 
 Yet emergence seems to stop at some kind of frontier, some [Dunbar](https://en.wikipedia.org/wiki/Dunbar%27s_number)-like number which limits the impact and participation to the solution to a small team at best.
 
-On another aspect, P2P is currently used by the most “on the edge” people, the ones with an entrepreneur mindset. But what about the rest of the world? How to attract them? From a “[change adoption curve](https://en.wikipedia.org/wiki/Diffusion_of_innovations)” it seems we need to “attract” new “customers”. But what if we built a P2P system that might turn any person into an Early Adopter because the system can bring him/her exactly what’s she’s looking for? That would turn everybody into an Innovator
+On another aspect, P2P is currently used by the most “on the edge” people, the ones with an entrepreneur mindset. But what about the rest of the world? How to attract them? From a “[change adoption curve](https://en.wikipedia.org/wiki/Diffusion_of_innovations)” it seems we need to “attract” new “customers”. But what if we built a P2P system that might turn any person into an Early Adopter because the system can bring him/her exactly what’s she’s looking for? That would turn everybody into an Innovator and make "change resistance" basically irrelevant.
 
 ## What we propose 
 What we propose is precisely to build a proto (in the sense of “ancient” or “ancestor”) P2P network whose purpose would precisely to devise a roadmap toward that sustainable AND abundance-based P2P society.
