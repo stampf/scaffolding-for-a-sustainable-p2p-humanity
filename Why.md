@@ -19,6 +19,7 @@ That organization will need to:
 * how to grow such a P2P society from the world as it is at the time of starting the syntegration, to the state defined at the previous point (100% P2P society or only partially P2P society)
 * how to make that P2P society as encompassing as possible by respecting a few conditions:
 
+
 1. be accessible to anybody on planet Earth without consideration of any sort of criteria
 2. be sustainable (ie, not assume an infinite world)
 3. be abundance-based (ie assume everybody has something worth to contribute to the world, whatever his/her possibilities)
