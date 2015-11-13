@@ -33,19 +33,5 @@ Also, the following needs will have to be addressed:
 * how to source (fund, crowdsource…) the initiative beyond 1) this document and 2) the scaffolding stage (ie, the syntegration in itself)
 * whether it is needed to sustain the syntegration over time (possibly in another form) or not at all (and let the P2P society decide this later). If something needs to be sustained over time, then our to source it will also need to be addressed.
 
-## List of topics to be included
-This list would ideally be of 12 topics. Should we end with a different number (as ideally required by Team Syntegrity), another scheme could be devised.
 
-1. agriculture (food), 
-2. arts, 
-3. commons, 
-4. economy (currencies), 
-5. education, 
-6. environment (resources: non-renewable and others)
-7. governance (politics),
-8. health, 
-9. medias,
-10. spirituality, 
-11. technology (energy, manufacturing...), 
-12. transport
 
