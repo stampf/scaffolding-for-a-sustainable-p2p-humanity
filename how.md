@@ -5,8 +5,10 @@
 Here are the pre-requisite knowledge that we think is necessary to successfully contribute to this initiative. Not everybody needs to be knowledgeable in all of them of course, neither be an expert.
 * Ross Ashby's **Law of Requisite Variety** or in more layman terms: the ones closest to an issue know the most about it;
 * Stafford Beer's **Viable System Model**: systemic principles that may help in creating organizations that can remain viable on the long term;
+* Stafford Beer's **Team Syntegrity** to facilitate cross-topic exchange and pollination;
 * **Strength-based approaches to change** like Appreciative Inquiry, Solution Focus and Positive deviance. These approaches to change are based on the principles that whatever you're looking for, you're going to find it or create it along the way. So we might as well go for the positive and the solutions right from the beginning;
 * **Peer-to-Peer initiatives** in the most diverse possible topics in order to build an organization as representative of the diversity of humanity as possible;
+* **Facilitation techniques** in order to elicit that collective intelligence we're looking after.
 
 ## Global roadmap
 We propose to use the team syntegrity systemic method to allow field matter and p2p experts to interact together in the most efficient way in order to design a roadmap to allow for a full blown transition from the current world to a more if not full p2p mankind.
