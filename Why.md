@@ -11,13 +11,10 @@ Yet emergence seems to stop at some kind of frontier, some [Dunbar](https://en.w
 On another aspect, P2P is currently used by the most “on the edge” people, the ones with an entrepreneur mindset. But what about the rest of the world? How to attract them? From a “[change adoption curve](https://en.wikipedia.org/wiki/Diffusion_of_innovations)” it seems we need to “attract” new “customers”. But what if we built a P2P system that might turn any person into an Early Adopter because the system can bring him/her exactly what’s she’s looking for? That would turn everybody into an Innovator and make "change resistance" basically irrelevant.
 
 ## What we propose 
-What we propose is precisely to build a proto (in the sense of “ancient” or “ancestor”) P2P network whose purpose would precisely to devise a roadmap toward that sustainable AND abundance-based P2P society.
+What we propose is precisely to build an organization based on the principles or P2P networks and inspired by existing P2P initiatives whose overall purpose would precisely to devise a roadmap toward creating a sustainable AND abundance-based P2P society.
 
-This proto would be deemed to disappear once the real P2P system start to take off and acquire autonomy.
-
-That proto would need to (and this, indeed, is a proto-proto needs analysis) to:
-
-* list the societal topics to be addressed by the roadmap  — Syntegrity ideally requires 12 such topics at most, though it might be possible to work with more or less.
+That organization will need to:
+* list the societal topics to be addressed from a P2P perspective and between them, in the most systemic way ever devised (the systems thniking methods to do this exist since tens of years, the time's more than ripe to put use them);
 * analyze the current systemic conditions of society and its transformation into a more P2P-practising society (that it become a P2P-only society or that P2P coexists with capitalism will have to be decided by the syntegration)
 * how to grow such a P2P society from the world as it is at the time of starting the syntegration, to the state defined at the previous point (100% P2P society or only partially P2P society)
 * how to make that P2P society as encompassing as possible by respecting a few conditions:
