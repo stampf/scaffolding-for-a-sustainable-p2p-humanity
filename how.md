@@ -36,3 +36,34 @@ Our guiding vision is one where circles of people self-organize locally to tackl
 All bottom circles connect to an upper circle to coordinate actions with other similar circles in the broader geographic area and/or topic. and so forth up to a global level, somehow like the United Nations, only it would be more like “United Peers”.
 
 How these circles exchange information might be in physical presence or through Internet use (collaborative platforms, video conferencing tools, decision making web sites, etc.) and is left to the circles to determine themselves.
+
+# How to run the organization
+
+The basic premise to run such a big (global) and wide (all humanity's centers of interest) organization would need two specific Systems Thinking "inventions" to function:
+* be inspired by the **Viable System Model** from Stafford Beer
+* foster systemicity in the exchanges of its members through the use of **Team Syntegrity** (also a Stafford Beer legacy)
+
+## Contributions of the Viable System Model (VSM)
+
+##Contributions of Team Syntegrity (TS)
+TS would help in organizing the exchanges in the different fields of expertise represented in the organization in the most efficient possible way. It allows for:
+* exchange between all topics;
+* in the most resource (cost) effective way
+
+The list of topics to be included is limited in the traditional way of conducting TS (12 at most), though experiences have been successful in running with either few or more topics).
+
+### List of topics to be included
+This list would ideally be of 12 topics. Should we end with a different number (as ideally required by Team Syntegrity), another scheme could be devised.
+
+1. agriculture (food), 
+2. arts, 
+3. commons, 
+4. economy (currencies), 
+5. education, 
+6. environment (resources: non-renewable and others)
+7. governance (politics),
+8. health, 
+9. medias,
+10. spirituality, 
+11. technology (energy, manufacturing...), 
+12. transport
