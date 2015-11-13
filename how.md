@@ -21,13 +21,21 @@ The road ahead might seem impossible to tackle. And indeed it will be a complex 
 
 ## A roadmap for a global syntegration would look like the following:
 
-1. Gathering interesting people to contribute to the improvement of this paper
-2. Finalizing the list of the 12 topics or so to be addressed by the syntegration
-3. Publicize the initiative and gather participation
-4. Organize the work groups (in the original syntegration, there are 20 of them each participating in 2 topics and criticizing 2 others) around the 12 topics.
+Let's breakdown this into smaller chunks. The three macro steps are:
+1. Draft the document idea (what you're currently reading at http://bit.ly/UP-draft)
+1. Build a scaffolding group of initiators to design and build the United People (UP) organization (not all 12 topics need to be represented, though the most the better)
+1. Launch the UP org and organize/run that systemic re/new building of the UP society at a global and local level
+
+Now, if we detail a bit more the preceding, we would have:
+0. Write this paper
+1. Gather interested people to contribute to the improvement of this paper
+2. Publicize the initiative and gather a wider participation
+3. Scaffold the future UP organization (ie, detail how the VSM structure will function on a global down to local levels, exchanges, communication, support, financing if possible, etc.)
+3. Finalizing the list of the 12 topics or so to be addressed by the UP org
+4. Launch the UP-org and invite the world to contribute through local and less-local/more-global gatherings
+4.  Organize the syntegration around the 12 topics on a permanent basis 
 5. Finalize the roadmaps for all the topics and publish them
-6. Turn the roadmaps into action as defined in them — ie, launch the initiative, the transformation of the world
-7. Build the permanent United Peers structure to support the global movement
+6. Turn the roadmaps into action as defined in them — ie, launch the initiative, the transformation of the world and keep the ball rolling (sustain the momentum)
 
 
 ## What’s the vision? 
