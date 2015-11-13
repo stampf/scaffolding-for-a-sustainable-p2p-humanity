@@ -26,10 +26,6 @@ That organization will need to:
 3. be **abundance-based** (ie assume everybody has something worth to contribute to the world, whatever his/her possibilities).
 
 
-Also, the following needs will have to be addressed:
-
-* how to source (fund, crowdsource…) the initiative beyond 1) this document and 2) the scaffolding stage (ie, the syntegration in itself)
-* whether it is needed to sustain the syntegration over time (possibly in another form) or not at all (and let the P2P society decide this later). If something needs to be sustained over time, then our to source it will also need to be addressed.
 
 
 
