@@ -10,6 +10,8 @@ Yet emergence seems to stop at some kind of frontier, some [Dunbar](https://en.w
 
 On another aspect, P2P is currently used by the most “on the edge” people, the ones with an entrepreneur mindset. But what about the rest of the world? How to attract them? From a “[change adoption curve](https://en.wikipedia.org/wiki/Diffusion_of_innovations)” it seems we need to “attract” new “customers”. But what if we built a P2P system that might turn any person into an Early Adopter because the system can bring him/her exactly what’s she’s looking for? That would turn everybody into an Innovator and make "change resistance" basically irrelevant.
 
+It's time to really **Think Global and Act Local** or, as [Edgar Morin](https://en.wikipedia.org/wiki/Edgar_Morin) puts it: "**Combine the global with the local**".
+
 ## What we propose 
 What we propose is precisely to build an organization based on the principles or P2P networks and inspired by existing P2P initiatives whose overall purpose would precisely to devise a roadmap toward creating a sustainable AND abundance-based P2P society.
 
