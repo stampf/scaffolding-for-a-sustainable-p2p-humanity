@@ -55,15 +55,17 @@ The list of topics to be included is limited in the traditional way of conductin
 ### List of topics to be included
 This list would ideally be of 12 topics. Should we end with a different number (as ideally required by Team Syntegrity), another scheme could be devised.
 
-1. agriculture (food), 
-2. arts, 
-3. commons, 
-4. economy (currencies), 
-5. education, 
-6. environment (resources: non-renewable and others)
-7. governance (politics),
-8. health, 
-9. medias,
-10. spirituality, 
-11. technology (energy, manufacturing...), 
-12. transport
+Current list, in alphabetical order:
+
+1. Agriculture (food), 
+2. Arts, 
+3. Commons, 
+4. Economy (currencies), 
+5. Education, 
+6. Environment (resources: non-renewable and others)
+7. Governance (politics),
+8. Health, 
+9. Medias,
+10. Spirituality, 
+11. Technology (energy, manufacturing...), 
+12. Transport
