@@ -1,4 +1,4 @@
-# Manifesto for a P2P thriving world
+# Manifesto for a peer-to-peer thriving world
 
 Given that:
 
