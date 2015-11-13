@@ -14,4 +14,4 @@
 - **all issues are most interconnected than ever**: we will organize that transdisciplinarity
 
 ### Therefore we decide and engage ourselves in:
-Using systems thinking to architect a strength-based systemic global P2P organization aimed at identifying, interconnecting, amplifying and refracting successful solutions, teach people how to infect others with similar ideas and in the end help humanity become the best it can be.
+Using systems thinking to architect a strength-based systemic global P2P organization aimed at identifying, interconnecting, amplifying and refracting successful solutions, teaching people how to infect others with similar ideas and in the end helping humanity become the best it can be in fair, sustainable and free ways.
