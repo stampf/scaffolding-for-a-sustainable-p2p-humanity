@@ -5,4 +5,10 @@ As explained in the [Manifesto](manifesto.md), the purpose of this paper is on u
 
 As  has been advocated by the [P2P Foundation](http://www.p2pfoundation.net/) since a few years, we need a change of paradigm if we're to survive:
 * where a scarcity of ideas is organized for the capitalization of intelligence, we need to grow the intellectual Commons to share working solutions;
-* where industrialization of production is organized with few consideration for people and the environment, we need 
+* where industrialization of production is organized with few consideration for people and the environment, we need to relocalize production to better control its environmental impact and re-knit the social fabric of local communities.
+
+So we propose to build a global organization using Systems Thinking principles that have been around since tens of years. Where such principles have been successfully used mostly in business consideration (and at least one [governmental situation](https://en.wikipedia.org/wiki/Project_Cybersyn)), it is time to leverage that knowledge and put it to use to the whole humanity.
+
+We're walking our own talk in that we know we (however great experts participate in this initiative) can't have any definitive answer to all problems. As a consequence we think that:
+1. The global organization will need to rely heavily on local initiatives and support and promote them;
+2. The global organization itself will need to be co-created by people from as diverse a variety of perspectives as possible
