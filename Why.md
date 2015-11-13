@@ -12,6 +12,8 @@ On another aspect, P2P is currently used by the most “on the edge” people, t
 
 It's time to really **Think Global and Act Local** or, as [Edgar Morin](https://en.wikipedia.org/wiki/Edgar_Morin) puts it: "**Combine the global with the local**".
 
+Where [netarchical companies](http://p2pfoundation.net/Netarchical_Capitalism) flourished on people's needs for meaning in their lives by sharing with others, we need to build a society where the [sharing economy](http://p2pfoundation.net/Sharing_Economy) would truly benefits its participants.
+
 ## What we propose 
 What we propose is precisely to build an organization based on the principles or P2P networks and inspired by existing P2P initiatives whose overall purpose would precisely to devise a roadmap toward creating a sustainable AND abundance-based P2P society.
 
