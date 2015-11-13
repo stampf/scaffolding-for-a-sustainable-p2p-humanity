@@ -5,7 +5,7 @@
 Here are the pre-requisite knowledge that we think is necessary to successfully contribute to this initiative. Not everybody needs to be knowledgeable in all of them of course, neither be an expert.
 * Ross Ashby's Law of Requisite Variety or in more layman terms: the ones closest to an issue know the most about it;
 * Stafford Beer's Viable Systems Model: systemic principles that may help in creating organizations that can remain viable on the long term;
-* Strength-based approaches to change like **Appreciative Inquiry**, **Solution Focus** and **Positive deviance**. These approaches to change are based on the principles that whatever you're looking for, you're going to find it or create it along the way. So it's 
+* Strength-based approaches to change like **Appreciative Inquiry**, **Solution Focus** and **Positive deviance**. These approaches to change are based on the principles that whatever you're looking for, you're going to find it or create it along the way. So we might as well go for the positive and the solutions right from the beginning
 * Peer-to-Peer 
 
 ## Global roadmap
