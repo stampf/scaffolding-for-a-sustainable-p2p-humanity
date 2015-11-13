@@ -36,14 +36,15 @@ Also, the following needs will have to be addressed:
 ## List of topics to be included
 This list would ideally be of 12 topics. Should we end with a different number (as ideally required by Team Syntegrity), another scheme could be devised.
 
-1. agriculture, 
-* economy, 
+1. agriculture (food), 
+* economy (currencies), 
 * health, 
-* technology/energy, 
-* politics, 
-* commons, 
-* art, 
+* technology (energy, manufacturing...), 
+* environment (resources: non-renewable and others)
+* (intellectual) commons, 
+* arts, 
 * spirituality, 
 * education, 
 * transport, 
-* governance
+* governance,
+* medias
