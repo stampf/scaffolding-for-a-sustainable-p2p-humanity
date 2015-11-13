@@ -71,6 +71,6 @@ Current list, in alphabetical order:
 7. Governance (politics),
 8. Health, 
 9. Medias,
+10. Security
 10. Spirituality, 
-11. Technology (energy, manufacturing...), 
-12. Transport
+11. Technology (energy, manufacturing, transport, IT...), 
