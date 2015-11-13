@@ -12,3 +12,9 @@ So we propose to build a global organization using Systems Thinking principles t
 We're walking our own talk in that we know we (however great experts participate in this initiative) can't have any definitive answer to all problems. As a consequence we think that:
 1. The global organization will need to rely heavily on local initiatives and support and promote them;
 2. The global organization itself will need to be co-created by people from as diverse a variety of perspectives as possible
+
+Therefore, the current stage of this initiative being that of a proposal, we're working together to assemble the founding principles and people that will allows the best global organization to emerge. 
+
+Consequently, this very document aimed to be a work in progress AND collaboratively constructed. Ideas proposed herein are just this: proposals, and what's legible at one time may not be n the future anymore, for a consensus toward something else might have emerged.
+
+**Let's move from a world of United Nations to a world of United People.**
