@@ -1,10 +1,10 @@
 # Why do we propose this? 
 
-A lot of P2P initiatives are already going on in the world, some experimenting, some already validated, well and alive.
+A lot of successful problem solving initiatives are already going on in the world, some experimenting, some already validated, well and alive. These initiatives mostly solve specific problems by involving people from the field, which makes us label them "*P2P initiatives*".
 
-Yet as good as these initiatives might be, most of them are disconnected one from the other, thereby losing the potential of eliciting emergence from co-creation.
+Yet as good as these initiatives might be, most of them are disconnected one from another, thereby losing the potential of eliciting further emergence from co-creation.
 
-This is all the most disappointing as these successful initiatives wouldn’t be what they are if not already for the power of networking between peers and, well, emergence and co-creation.
+This is all the most disappointing as these successful initiatives wouldn’t be what they are if not already for the power of networking between peers and, well, emergence and co-creation. So there is no reason why the magic that gave birth to them couldn't happen again in another place (promotion of initiatives), with another problematic situation (transdisciplinarity) or at another level (scaling up).
 
 Yet emergence seems to stop at some kind of frontier, some Dunbar-like number or similar which limit the impact and participation to the solution to a small team at best (the P2P Foundation being a kind of exception given the high number of people participating, yet 1) most of them are specialized in a few fields and 2) few really build together.
 
