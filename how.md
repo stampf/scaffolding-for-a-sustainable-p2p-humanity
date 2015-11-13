@@ -51,6 +51,7 @@ The VSM is a model which can serve two purposes:
 
 ##Contributions of Team Syntegrity (TS)
 ![Syntegration Icosahedron](syntegration icosahedron.png)
+
 TS would help in organizing the exchanges in the different fields of expertise represented in the organization in the most efficient possible way. It allows for:
 * exchange between all topics;
 * in the most resource (cost) effective way
