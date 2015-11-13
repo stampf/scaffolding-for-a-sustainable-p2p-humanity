@@ -44,8 +44,8 @@ This list would ideally be of 12 topics. Should we end with a different number (
 6. environment (resources: non-renewable and others)
 7. governance (politics),
 8. health, 
-9. medias
+9. medias,
 10. spirituality, 
 11. technology (energy, manufacturing...), 
-12. transport, 
+12. transport
 
