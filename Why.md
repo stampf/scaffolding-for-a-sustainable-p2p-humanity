@@ -1,3 +1,18 @@
+# Manifesto for a P2P thriving world
+
+Given that:
+
+- the world is experiencing a **serious environmental crisis** (see COP21): *we want to promote new solutions of living on this planet that don't further exhaust our natural resources and endanger humanity;*
+- lots of **proven solutions exist** in the world (see all NGOs doing real work on the field): *we want to promote these existing solutions to where they're most needed*;
+- **politics don't do what is most needed by the people** which is normal from a systems thniking perspective ([Law of the Requisite Variety from Ross Ashby](https://en.wikipedia.org/wiki/Variety_%28cybernetics%29)): *we need to foster a P2P culture where people would co-design according to their needs, not someone else from perceived needs*;
+- **siloed science isn't adapted anymore to a world now perceived in all its complexity**: *we need transdisciplinarity and management of complexity brought by the latest research by systems thinkers*;
+- **people are better moved by what they want** rather than what they want to escape: we turn to strength-based approaches to change (AI, SF, PD)
+- more **people are more clever in groups** (with proper facilitation) than alone: we will organize that global collective intelligence
+- **all issues are most interconnected than ever**: we will organize that transdisciplinarity
+
+### Therefore we decide and engage ourselves in:
+Using systems thinking to architect a strength-based systemic global P2P organization aimed at identifying, interconnecting, amplifying and refracting successful solutions, teaching people how to infect others with similar ideas and in the end helping humanity become the best it can be in fair, sustainable and free ways.
+
 # Why do we propose this? 
 
 A lot of P2P initiatives are already going on in the world, some experimenting, some already validated, well and alive.
