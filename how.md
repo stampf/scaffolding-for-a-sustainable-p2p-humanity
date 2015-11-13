@@ -1,5 +1,14 @@
 # How to do it? 
 
+## Pre-requisites
+
+Here are the pre-requisite knowledge that we think is necessary to successfully contribute to this initiative. Not everybody needs to be knowledgeable in all of them of course, neither be an expert.
+* Ross Ashby's Law of Requisite Variety or in more layman terms: the ones closest to an issue know the most about it;
+* Stafford Beer's Viable Systems Model: systemic principles that may help in creating organizations that can remain viable on the long term;
+* Strength-based approaches to change like **Appreciative Inquiry**, **Solution Focus** and **Positive deviance**. These approaches to change are based on the principles that whatever you're looking for, you're going to find it or create it along the way. So it's 
+* Peer-to-Peer 
+
+## Global roadmap
 We propose to use the team syntegrity systemic method to allow field matter and p2p experts to interact together in the most efficient way in order to design a roadmap to allow for a full blown transition from the current world to a more if not full p2p mankind.
 
 The road ahead might seem impossible to tackle. And indeed it will be a complex and tough work to reclaim. Yet, there are proofs that the P2P paradigm works:
