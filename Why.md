@@ -29,8 +29,9 @@ That organization will need to:
 
 ## What should the organization look like?
 
-Here's a diagram showing the principles at play in how we see it functioning.
-
-
-
-
+Here's a diagram showing the components at play in how we see it functioning.
+![Diagram showing the four components of the UP organization](PRE Venn Diagrams v1.0.png)
+These components are the following:
+* Subject Matter experts to bring knowledge in the fields where solutions are sought by people in need throughout the world;
+* Strength-based principles to change to help liberate the forces of participants or customers of the organization: what is wanted, how to get it, and what already works;
+* Systems Thinking to 
