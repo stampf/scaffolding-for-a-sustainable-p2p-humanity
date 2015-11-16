@@ -27,6 +27,9 @@ That organization will need to:
   2. be **sustainable** (ie, not assume an infinite world);
   3. be **abundance-based** (ie assume everybody has something worth to contribute to the world, whatever his/her possibilities).
 
+## What should the organization look like?
+
+Here's a diagram showing the principles at play in how we see it functioning.
 
 
 
