@@ -5,7 +5,7 @@ In order to advance this proposal we need contributors, depending on the phase t
 
 We currently are at phase 0 of improving this document.
 
-##Phase 0: Developing this scaffolding proposal <-- YOU ARE HERE
+##Phase 0: Developing this scaffolding proposal <-- WE ARE HERE
 
 During this early phase of development, we want contributors to this scaffolding document, aimed to be mostly a call to good wills.
 
