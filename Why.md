@@ -34,4 +34,6 @@ Here's a diagram showing the components at play in how we see it functioning.
 These components are the following:
 * Subject Matter experts to bring knowledge in the fields where solutions are sought by people in need throughout the world;
 * Strength-based principles to change to help liberate the forces of participants or customers of the organization: what is wanted, how to get it, and what already works;
-* Systems Thinking to 
+* Systems Thinking to broaden topics and ensure problems and solutions are ecologically sound (in the sense that they fit as best as possible within the environment they're targeting to change)
+* Syntegrity to efficiently and thoroughly connect all perspectives on all topics being addressed.
+
