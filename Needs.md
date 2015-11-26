@@ -16,7 +16,7 @@ Specific
 
 Other more general skills needed:
 * Graphists to embelish this document
-* Storytellers to awake  the hearts of people are increase the chances of recruiting forces
+* Storytellers to awake  the hearts of people and increase the chances of recruiting forces
 
 ##Phase 1: Defining the organization
 
