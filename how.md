@@ -82,3 +82,5 @@ Current list, in alphabetical order:
 10. Security,
 10. Spirituality, 
 11. Technology (energy, manufacturing, transport, IT...), 
+
+Another interesting map (though less exhaustive) is [the one produced by Blaqswans (link to P2PFoundation website](http://blog.p2pfoundation.net/mapping-the-emerging-post-capitalist-paradigm-and-its-main-thinkers/2015/11/29).
