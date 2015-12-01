@@ -17,3 +17,8 @@ Here are some answers to the most common questions asked about this initiative.
   The UN will continue to bring peace and globally intervene between the Nations, when these are failing.
   
   We just think there is room for better direct person to person interconnectedness.
+
+* **Is is going to be a World Government?**
+  Absolutely not. We want to raise people's capacity to self-organize and support one another, not direct their lives. Systems Thinking tells us that resilience emerges out of diversity. That's how Nature thrives, and how humanity passed through various crisis during its history: unexpected ideas came out of unexpected places as well as planned researched. We want not only to preserve that, but activate it as well.
+
+  We want to move away from too much uniformity and toward more diversity, while finding the subtle balance between efficiency and adaptation.
