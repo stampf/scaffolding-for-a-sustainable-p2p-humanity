@@ -22,3 +22,10 @@ Here are some answers to the most common questions asked about this initiative.
   Absolutely not. We want to raise people's capacity to self-organize and support one another, not direct their lives. Systems Thinking tells us that resilience emerges out of diversity. That's how Nature thrives, and how humanity passed through various crisis during its history: unexpected ideas came out of unexpected places as well as planned researched. We want not only to preserve that, but activate it as well.
 
   We want to move away from too much uniformity and toward more diversity, while finding the subtle balance between efficiency and adaptation.
+  
+* **The pre-industrial age was mostly P2P. Why would it work now when it didn't then?**
+  That's true, when people could only exchange with their neighbors, social bonds were fewer but stronger. Unsustainable practices where quickly spotted and Commons Governance put in place. Industrialization unfortunately changed that and we could think it was for the worse, and that everything started to slip down ever since.
+
+  Although it is true that industrialization brought a hell lot of negative impacts on natural health, agriculture and [the climate](http://climate.nasa.gov/), the most modern ages also brought us global communication which allows us to 1) discover the huge diaspora of humanity 2) go help people in need and 3) exchange information.
+  
+  We want to leverage this global community by tightening it and turning it into the tremendous encouraging power social networks can have on people, in service of the best of all.
