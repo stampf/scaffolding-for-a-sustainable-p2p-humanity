@@ -20,3 +20,8 @@ The organization we envision (for now) isn't like any kind of previously existin
 * it's a **social network** as well where problem tackling people could meet solution providing people, the whole being facilitated by systems thinkers, *but it doesn't rely on specific hardware technology: the people is the network*.
 
 
+## Tentative Vision
+{% include "./vision.md" %}
+
+##Tentative Mission Statement
+{% include "./mission.md" %}
