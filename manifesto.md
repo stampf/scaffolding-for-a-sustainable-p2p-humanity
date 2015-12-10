@@ -22,7 +22,7 @@ What we envision (for now) isn't like anything previously existing:
 
 
 ## Tentative Vision
-{% include "./vision.md" %}
+% include "./vision.md" %}
 
 ##Tentative Mission Statement
-{% include "./mission.md" %}
+% include "./mission.md" %}
