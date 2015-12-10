@@ -12,9 +12,9 @@ Given that:
 ### Therefore we decide to engage ourselves in:
 Fostering a global peer-to-peer civilization whose people leverage systems thinking to better reconnect to their peers and the environment to identify, interconnect, amplify and refract Commons and proven solutions so that the humanity can become the best it can be in fair, sustainable and free ways.
 
-### What would it look like?
+### What would the future of this project look like?
 
-The organization we envision (for now) isn't like any kind of previously existing organization:
+What we envision (for now) isn't like anything previously existing:
 * it's an **NGO**  for it works without consideration of nation states, *but it doesn't bring new resources to people: it helps them find the existing resources where they are (which might be themselves in the end)*; 
 * it's part of the new **sharing** economy because it crowdsources the Commons of knowledge and expertise and makes it available to where it is most needed, *but it doesn't make any money out of it*;
 * it's a **research organization** as well as it organizes investigations on how to find new solutions to problems (or leverage existing ones or use systems thinking to transpose solutions from one domain to another) *but it doesn't copyright its work, it makes it available under open licenses*;
