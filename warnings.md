@@ -1,4 +1,4 @@
-# Foreword
+# Forewords
 
 ## Preliminary note
 
