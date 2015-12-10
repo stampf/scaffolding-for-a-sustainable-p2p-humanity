@@ -20,9 +20,3 @@ What we envision (for now) isn't like anything previously existing:
 * it's a **research organization** as it facilitates investigations on how to find new solutions to problems and enriches the Commons with what it finds*;
 * it's a **social network** as well where people could make problems meet solutions, though without relying on specific hardware technology: *the people is the network*.
 
-
-## Tentative Vision
-% include "./vision.md" %}
-
-##Tentative Mission Statement
-% include "./mission.md" %}
