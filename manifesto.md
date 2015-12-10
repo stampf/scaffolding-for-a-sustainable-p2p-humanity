@@ -17,6 +17,6 @@ Fostering a global peer-to-peer civilization whose people leverage systems think
 What we envision (for now) isn't like anything previously existing:
 * it might act like an **NGO**, without consideration of nation states, *but it doesn't bring new resources to people: it helps them find the existing resources where they are*; 
 * it's part of the **sharing** economy because it crowdsources the Commons of knowledge in order to make it available to where it is most needed;
-* it's a **research organization** as it facilitates investigations on how to find new solutions to problems and enriches the Commons with what it finds*;
+* it's a **research organization** as it facilitates investigations on how to find new solutions to problems and enriches the Commons with what it finds;
 * it's a **social network** as well where people could make problems meet solutions, though without relying on specific hardware technology: *the people is the network*.
 
