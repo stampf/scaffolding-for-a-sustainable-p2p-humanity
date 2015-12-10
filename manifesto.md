@@ -10,7 +10,7 @@ Given that:
 - **People are better moved by what they want** rather than what they want to escape: we've talked enough of problems and analyzed them sufficiently to now *do more of what already works or create what's lacking.
 
 ### Therefore we decide to engage ourselves in:
-Fosterin a global peer-to-peer civilization whose people leverage systems thinking to better reconnect to their peers and the environment are skilled at identifying, interconnecting, amplifying and refracting proven solutions in order to help humanity become the best it can be in fair, sustainable and free ways.
+Fostering a global peer-to-peer civilization whose people leverage systems thinking to better reconnect to their peers and the environment to identify, interconnect, amplify and refract Commons and proven solutions so that the humanity can become the best it can be in fair, sustainable and free ways.
 
 ### What would it look like?
 
