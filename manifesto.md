@@ -9,8 +9,8 @@ Given that:
 - **Silo'ed science isn't adapted anymore to a world now perceived in all its complexity**: *we need transdisciplinarity and management of complexity brought by the latest research of systems thinkers*;
 - **People are better moved by what they want** rather than what they want to escape: we've talked enough of problems and analyzed them sufficiently to now *do more of what already works or create what's lacking.
 
-### Therefore we decide and engage ourselves in:
-Using systems thinking to foster a strength-based global P2P civilization whose people are skilled at identifying, interconnecting, amplifying and refracting proven solutions in order to help humanity become the best it can be in fair, sustainable and free ways.
+### Therefore we decide to engage ourselves in:
+Using strength-based systems thinking to foster a global P2P civilization whose people are skilled at identifying, interconnecting, amplifying and refracting proven solutions in order to help humanity become the best it can be in fair, sustainable and free ways.
 
 ### What would it look like?
 
