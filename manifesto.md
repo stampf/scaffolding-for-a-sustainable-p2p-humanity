@@ -4,6 +4,7 @@ Given that:
 
 - The world is experiencing a **serious environmental crisis** (see COP21): *we want to promote new solutions of living on this planet that don't further exhaust our natural resources and endanger humanity;*
 - Lots of **proven solutions exist** in the world (see all NGOs doing real work on the field): *we want to promote these existing solutions to where they're most needed*;
+- **Corporations** manage our desires (through marketing) and fulfill our needs by selling us their products embedding planned obsolescence: *we want our freedom of choice back and reconsider long term investment in the solutions we fancy*;
 - **Politics don't do what is most needed by the people**: *we need to foster a P2P culture where people would co-design according to their needs, not someone else from perceived needs*;
 - **Silo'ed science isn't adapted anymore to a world now perceived in all its complexity**: *we need transdisciplinarity and management of complexity brought by the latest research by systems thinkers*;
 - **People are better moved by what they want** rather than what they want to escape: we've talked enough of problems and analyzed them sufficiently to now *turn ourselves to strength-based approaches to change and co-design that better world we're clinging to and find and promote working solutions*;
