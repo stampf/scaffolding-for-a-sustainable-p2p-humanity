@@ -15,9 +15,9 @@ Fostering a global peer-to-peer civilization whose people leverage systems think
 ### What would the future of this project look like?
 
 What we envision (for now) isn't like anything previously existing:
-* it's an **NGO**  for it works without consideration of nation states, *but it doesn't bring new resources to people: it helps them find the existing resources where they are (which might be themselves in the end)*; 
-* it's part of the new **sharing** economy because it crowdsources the Commons of knowledge and expertise and makes it available to where it is most needed, *but it doesn't make any money out of it*;
-* it's a **research organization** as well as it organizes investigations on how to find new solutions to problems (or leverage existing ones or use systems thinking to transpose solutions from one domain to another) *but it doesn't copyright its work, it makes it available under open licenses*;
+* it might act like an **NGO**, without consideration of nation states, *but it doesn't bring new resources to people: it helps them find the existing resources where they are*; 
+* it's part of the **sharing** economy because it crowdsources the Commons of knowledge in order to make it available to where it is most needed;
+* it's a **research organization** as it facilitates investigations on how to find new solutions to problems and enriches the Commons with what it finds*;
 * it's a **social network** as well where problem tackling people could meet solution providing people, the whole being facilitated by systems thinkers, *but it doesn't rely on specific hardware technology: the people is the network*.
 
 
