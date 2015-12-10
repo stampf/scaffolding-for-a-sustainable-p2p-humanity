@@ -1,4 +1,4 @@
-# Warnings
+# Foreword
 
 ## Preliminary note
 
