@@ -9,13 +9,11 @@ As  has been advocated by the [P2P Foundation](http://www.p2pfoundation.net/) si
 
 Where Systems Thinking has been successfully used mostly in business consideration for tens of years (and at least one [governmental situation](https://en.wikipedia.org/wiki/Project_Cybersyn)), it is time to leverage that knowledge and put it to use in service of the whole humanity.
 
-We're walking our own talk in that we know we (however great experts will participate in this initiative) can't have any definitive answer to all problems. As a consequence we think that:
-1. The global organization will need to rely heavily on local initiatives and support and promote them;
-2. The global organization itself will need to be co-created by people from as diverse a variety of perspectives as possible
+We're walking our own talk in that we know we can't have any definitive answer to all problems. 
 
-Therefore, the current stage of this initiative being that of a proposal, we're working together to assemble the founding principles and people that will allow the best global organization to emerge. 
+Therefore, the current stage of this initiative being that of a proposal, **we've assembled a group of knowledgeable yet humble people to work together to design the founding principles upon which that best humanity will be able to flourish. **
 
-Consequently, this very document aimed to be a work in progress AND collaboratively constructed. Ideas proposed herein are just this: proposals, and what's legible at one time may not be n the future anymore, for a consensus toward something else might have emerged.
+Consequently, this very document is a work in progress AND collaboratively constructed. Ideas proposed herein are just this: proposals, and what's legible at one time may not be in the future anymore, for a consensus toward something else might emerge later.
 
 Let's move from a world of (not so) United Nations to a world of **United People**.
 
