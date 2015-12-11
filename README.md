@@ -1,13 +1,13 @@
 Scaffolding for a sustainable P2P humanity
 =======
 
-As explained in the [Manifesto](manifesto.md), the purpose of this paper is on using systems thinking to architect a strength-based systemic global P2P organization aimed at identifying, interconnecting, amplifying and refracting successful solutions, teaching people how to foster similar ideas to their own peers (friends, family, co-workers, real-life social network, etc.) and in the end helping humanity become the best it can be in fair, sustainable and free ways.
+As explained in the [Manifesto](manifesto.md), the purpose of this paper is about leveraging systems thinking to foster a strength-based global peer-to-peer humanity where people are used to identifying, interconnecting, amplifying and refracting successful solutions in order to help humanity become the best it can be in fair, sustainable and free ways.
 
 As  has been advocated by the [P2P Foundation](http://www.p2pfoundation.net/) since a few years, we need a change of paradigm if we're to survive:
 * where a scarcity of ideas is organized for the capitalization of intelligence, we need to grow the intellectual Commons to share working solutions;
 * where industrialization of production is organized with few consideration for people and the environment, we need to relocalize production to better control its environmental impact and re-knit the social fabric of local communities.
 
-We therefore propose to **build a global organization using Systems Thinking** principles (among others) that have been around since tens of years. Where such principles have been successfully used mostly in business consideration (and at least one [governmental situation](https://en.wikipedia.org/wiki/Project_Cybersyn)), it is time to leverage that knowledge and put it to use to the whole humanity.
+Where Systems Thinking has been successfully used mostly in business consideration for tens of years (and at least one [governmental situation](https://en.wikipedia.org/wiki/Project_Cybersyn)), it is time to leverage that knowledge and put it to use in service of the whole humanity.
 
 We're walking our own talk in that we know we (however great experts will participate in this initiative) can't have any definitive answer to all problems. As a consequence we think that:
 1. The global organization will need to rely heavily on local initiatives and support and promote them;
