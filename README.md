@@ -18,4 +18,7 @@ Consequently, this very document is a work in progress AND collaboratively const
 Let's move from a world of (not so) United Nations to a world of **United People**.
 
 The short URL for this collaborative work is http://bit.ly/UP-draft (points here).
+
+If you are interested to contribute, please make you known and request an account on the private exchange platform at http://up.appreciatingsystems.com.
+
 Should you want to propose changes, the GitHub URL is https://github.com/stampf/scaffolding-for-a-sustainable-p2p-humanity
